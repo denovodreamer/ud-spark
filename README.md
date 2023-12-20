@@ -1,1 +1,3 @@
-# ud-spark
+# Spark
+
+Udacity course on Spark.
